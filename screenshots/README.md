@@ -3,3 +3,4 @@ This folder contains SEO practice screenshots such as:
 -Page speed insights
 -sitemap
 -pinterest backlinks
+
