@@ -44,11 +44,12 @@ I am actively seeking an SEO Intern / Junior SEO role.
 ## Tools Used
 Google Search Console | PageSpeed Insights | Yoast SEO | WordPress | Pinterest
 
-##SEO Results and Learnings
+**##SEO Results and Learnings**
 -Website successfully indexed in google
 -Sitemap detected in GSC
 -Improved understanding of real world SEO workflow
--
+-Practical experience with free hosting SEO limitations
+-Hands-on exposure to performance optimization challenges
 
 
 # Proof of Work
