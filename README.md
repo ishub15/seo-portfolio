@@ -61,6 +61,7 @@ Screenshots and documents are available in my GitHub repositories:
 - Meta Tags Optimization
 - GSC sitemap
 
+**Medium Article** : https://medium.com/@ishu.b15/seo-practice-case-study-optimizing-a-home-bakery-website-23f98cf11bab
 
 ## Contact
 Email: ishu.b15@email.com
