@@ -4,6 +4,8 @@ I am actively seeking an SEO Intern / Junior SEO role.
 
 ## SEO Practice Project – Home Bakery Website
 **Website:** https://cakencrunch.liveblog365.com
+**Medium Article** : https://medium.com/@ishu.b15/seo-practice-case-study-optimizing-a-home-bakery-website-23f98cf11bab
+
 
 ## Skills
 - On-Page SEO
@@ -60,8 +62,6 @@ Screenshots and documents are available in my GitHub repositories:
 - Keyword Mapping Project
 - Meta Tags Optimization
 - GSC sitemap
-
-**Medium Article** : https://medium.com/@ishu.b15/seo-practice-case-study-optimizing-a-home-bakery-website-23f98cf11bab
 
 ## Contact
 Email: ishu.b15@email.com
