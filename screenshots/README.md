@@ -1,6 +1,13 @@
 This folder contains SEO practice screenshots such as:
--Google search console
--Page speed insights
+-homepage
+-Page speed insights-mobile
+-page speed insights-desktop
 -sitemap
 -pinterest backlinks
-
+-keyword research
+-google-indexing
+-robots-txt
+-image-alt-text
+-ssl 
+-homepage-metatitle
+-canonical tag
