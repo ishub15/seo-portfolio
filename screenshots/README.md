@@ -11,3 +11,5 @@ This folder contains SEO practice screenshots such as:
 -ssl 
 -homepage-metatitle
 -canonical tag
+-pinterest backlink
+-medium backlink
