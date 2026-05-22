@@ -65,3 +65,39 @@ Screenshots and documents are available in my GitHub repositories:
 
 ## Contact
 Email: ishu.b15@email.com
+
+
+
+
+
+---
+
+## IGNOU Galaxy Manual SEO Audit
+
+Manual SEO audit conducted as part of an SEO Executive assessment.
+
+### Audit Scope
+
+- Technical SEO review
+- Robots.txt analysis
+- XML sitemap inspection
+- Core Web Vitals analysis
+- Metadata & canonical review
+- Structured data (schema) review
+- Competitor analysis
+- Keyword cluster expansion
+- Internal linking opportunities
+- Low-hanging SEO wins
+- 30/60/90 SEO roadmap
+
+### Key Findings
+
+- Homepage schema missing
+- FAQ schema opportunity identified
+- Mobile and Desktop Core Web Vitals need improvement
+- Old indexed pages (2024) identified
+- 50+ keyword opportunities discovered
+- Competitor keyword-gap opportunities identified
+
+🔗 Project:
+https://github.com/ishub15/ignou-galaxy-seo-audit
