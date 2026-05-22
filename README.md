@@ -101,3 +101,36 @@ Manual SEO audit conducted as part of an SEO Executive assessment.
 
 🔗 Project:
 https://github.com/ishub15/ignou-galaxy-seo-audit
+
+
+
+
+---
+
+## Alisa Dental Care SEO Case Study
+
+SEO project completed during internship/training involving a dental clinic website with 65+ HTML + Bootstrap pages.
+
+### Project Scope
+
+- On-page SEO optimization across 65+ pages
+- Meta title optimization
+- Meta description creation
+- Heading structure optimization
+- Internal linking
+- Image alt text optimization
+- Canonical review
+- Open Graph & Twitter card implementation support
+- Content structure optimization
+
+### Website Technology
+
+HTML + Bootstrap
+
+### Key Learnings
+
+- Metadata optimization at scale
+- Search intent mapping
+- Internal linking strategy
+- Large website page optimization
+- Real-world SEO workflow experience
