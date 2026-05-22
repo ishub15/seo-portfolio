@@ -134,3 +134,6 @@ HTML + Bootstrap
 - Internal linking strategy
 - Large website page optimization
 - Real-world SEO workflow experience
+  
+ 🔗 Project:
+ https://github.com/ishub15/alisa-dental-care-seo-case-study
