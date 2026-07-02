@@ -137,3 +137,62 @@ HTML + Bootstrap
   
  🔗 Project:
  https://github.com/ishub15/alisa-dental-care-seo-case-study
+
+
+--------
+---
+
+# Keyword Research Case Study
+
+## Project
+
+**Client:** Gift Hampers (Corporate Gifts) & Simplified Elearning
+
+## Objective
+
+Performed keyword research to identify high-intent keywords for improving organic visibility and targeting customers in multiple cities.
+
+## Tools Used
+
+- Google Keyword Planner
+- SEMrush
+
+
+## Activities Performed
+
+- Keyword Research
+- Competitor Keyword Analysis
+- Search Intent Analysis
+- Search Volume Analysis
+- Keyword Difficulty Analysis
+- Location-Based Keyword Research
+
+## Target Locations
+
+- Chennai
+- Bangalore
+- Hyderabad
+
+## Deliverables
+
+- Primary Keywords
+- Secondary Keywords
+- Long-Tail Keywords
+- Commercial Intent Keywords
+- Competitor Comparison
+- Keyword Prioritization
+
+### Sample Keywords
+
+| Keyword | Search Volume | Intent |
+|----------|--------------:|--------|
+| Gift Hampers | 3.6K | Commercial |
+| Corporate Gift Hampers | 1.3K | Commercial |
+| New Year Corporate Gifts | 800 | Commercial |
+
+**Project Files**
+
+- 📄 Keyword Research Spreadsheet
+- 📊 Keyword Research Report
+
+
